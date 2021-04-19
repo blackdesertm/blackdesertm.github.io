@@ -1,4 +1,5 @@
 title: "bdm info"
-remote_theme: pmarsceill/just-the-docs
+# remote_theme: pmarsceill/just-the-docs
+remote_theme: cotes2020/jekyll-theme-chirpy
 # color_scheme: "dark"
-search_enabled: true
+# search_enabled: false
